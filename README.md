@@ -10,7 +10,8 @@ Created a simple frontend Vue application that allows a user to check the curren
 
 • Used of the Open Weather Map API to make calls to a restful API to return the current weather data
 
-• Created (...)
+• Will create a Heroku post build script
+
 
 Visit my project here - 
 
