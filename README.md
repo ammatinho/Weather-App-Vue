@@ -1,7 +1,3 @@
-# vue-weather
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 # Weather-App-Vue
 
 Created a simple frontend Vue application that allows a user to check the current weather. This app fetches info from official Open Weather Map API
